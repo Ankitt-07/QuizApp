@@ -12,3 +12,8 @@ Authentication: JWT (JSON Web Tokens)
 #Frontend
 Link - https://quiz-app-jtz3.vercel.app/  
 
+## Features
+
+- **User authentication and authorization**
+- **Create and manage quizzes**
+- **Take quizzes and view results**
